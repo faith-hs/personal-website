@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: c908d101-b1ea-432c-b377-cfb4093a495a
+      url: https://faithsatrya.netlify.app
