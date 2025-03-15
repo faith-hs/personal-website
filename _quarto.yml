@@ -4,10 +4,16 @@ project:
 website:
   title: "Faith Satrya"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: projects.qmd
+        text: Projects
+      - href: courses.qmd
+        text: Courses
+  page-footer: 
+    right: "&copy; 2025, Faith Satrya"
+
 
 format:
   html:
@@ -16,6 +22,13 @@ format:
       - brand
     css: styles.css
     toc: true
+    # published-title: "last updated"
+    # reference-location: document
+    # code-fold: false
+    # code-summary: ""
+    # fontsize: 1.3em
+# change toc (above) to false if you don't want toc by default on site
 
-
+execute: 
+  freeze: auto
 

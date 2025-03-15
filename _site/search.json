@@ -1,16 +1,79 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.4087672 0.4112246 0.3091092 0.3998155 0.8015345 0.3856624 0.7567573\n [8] 0.7806171 0.2703386 0.7050070"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Faith Satrya",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 3\n\n[1] 4"
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Faith Satrya",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA PhD in Mathematics | Sept 2011 - June 2015\nSan Diego Mesa College | San Diego, CA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Faith Satrya",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "projects/03-project.html",
+    "href": "projects/03-project.html",
+    "title": "Project 3",
+    "section": "",
+    "text": "Some complicated statistics project\n\nrnorm(100) |&gt; hist()\n\n\n\n\n\n\n\n\n\nrunif(10)\n\n [1] 0.09507689 0.05468662 0.40994324 0.83196294 0.76622553 0.23594281\n [7] 0.20921244 0.47328744 0.51070157 0.05124654"
+  },
+  {
+    "objectID": "projects/02-project.html",
+    "href": "projects/02-project.html",
+    "title": "Project 2",
+    "section": "",
+    "text": "Some complicated statistics project\n\nrnorm(100) |&gt; hist()"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Relevant Courses",
+    "section": "",
+    "text": "Statistical Consulting\nStatistical Models for Finance"
+  },
+  {
+    "objectID": "courses.html#relevant-courses",
+    "href": "courses.html#relevant-courses",
+    "title": "courses",
+    "section": "",
+    "text": "Statistical Consulting\nStatistical Models for Finance"
+  },
+  {
+    "objectID": "projects/01-project.html",
+    "href": "projects/01-project.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "Some complicated statistics project\n\nrunif(10)\n\n [1] 0.19610533 0.09349617 0.54477421 0.44959036 0.48638768 0.26043156\n [7] 0.84056221 0.94096128 0.24366612 0.92729253"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here is my first project"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "Here is my first project"
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "Projects",
+    "section": "Project 2",
+    "text": "Project 2\nHeres is my second project\nconsider making type default instead of table but this will display images"
   }
 ]

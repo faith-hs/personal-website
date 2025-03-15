@@ -1,0 +1,8 @@
+---
+title: Relevant Courses
+toc: false
+---
+
+
+- Statistical Consulting
+- Statistical Models for Finance
