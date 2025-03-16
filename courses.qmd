@@ -4,5 +4,7 @@ toc: false
 ---
 
 
-- Statistical Consulting
+- Practice of Statistical Consulting
 - Statistical Models for Finance
+- Introduction to Computation and Optimisation for Statistics
+- Introduction to Data Analysis Regression

@@ -13,6 +13,7 @@ listing:
       - title
     categories: false
 ---
+(to be updated soon)
 
 ## Project 1:
 
