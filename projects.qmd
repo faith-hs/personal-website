@@ -4,27 +4,27 @@ toc: false
 listing:
   - id: project-list
     contents: 
-      - "/projects/*.qmd"
+      - "/projects"
     sort: false
     sort-ui: false
     filter-ui: true
-    type: table
+    type: default
     fields:
       - title
     categories: false
 ---
 (to be updated soon)
 
-## Project 1:
+<!-- ## Project 1: -->
 
-Here is my [first project](/projects/01-project.qmd)
+<!-- Here is my [first project](/projects/01-project.qmd) -->
 
 
-## Project 2
+<!-- ## Project 2 -->
 
-Heres is my [second project](/projects/02-project.qmd)
+<!-- Heres is my [second project](/projects/02-project.qmd) -->
 
-consider making type default instead of table but this will display images
+<!-- consider making type default instead of table but this will display images -->
 
 :::project-list
 :::

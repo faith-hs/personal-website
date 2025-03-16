@@ -1,8 +1,8 @@
 {
-  "hash": "1c65738cd0b5c8926ab2c7031c5f6c06",
+  "hash": "8321f5afd2ac8c4b52e99ef4177cd636",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: Project 2\n---\n\n\n\n\nSome complicated statistics project\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrnorm(100) |> hist()\n```\n\n::: {.cell-output-display}\n![](02-project_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::",
+    "markdown": "---\ntitle: Project 2\ndate: 2025-03-14\n---\n\n\n\n\nSome complicated statistics project\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrnorm(100) |> hist()\n```\n\n::: {.cell-output-display}\n![](02-project_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::",
     "supporting": [
       "02-project_files"
     ],

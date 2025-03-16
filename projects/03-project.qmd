@@ -1,15 +1,9 @@
 ---
-title: Project 3
+title: Feature Engineering
+toc: false
 ---
 
 
-Some complicated statistics project
+## About this Project
 
-
-```{r}
-rnorm(100) |> hist()
-```
-
-```{r}
-runif(10)
-```
+As part of the BSA Tennis Consulting Club at UCLA, I have taken on some other projects on top of my responsibilities as a tagging team lead and analyst. One of these projects is the feature engineering project. As the club has begun to transition to AI systems for data creation, some features are not readily available with the software the club utilises, warranting feature engineering of said features. More on this project can be seen [here].

@@ -1,8 +1,8 @@
 {
-  "hash": "747c10b20ee8539c59011a1de132104b",
+  "hash": "030dafc10b9bbeb515527fdb2494926d",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: Project 3\n---\n\n\n\n\nSome complicated statistics project\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrnorm(100) |> hist()\n```\n\n::: {.cell-output-display}\n![](03-project_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\nrunif(10)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1] 0.09507689 0.05468662 0.40994324 0.83196294 0.76622553 0.23594281\n [7] 0.20921244 0.47328744 0.51070157 0.05124654\n```\n\n\n:::\n:::",
+    "markdown": "---\ntitle: Project 3\ndate: 20025-03-18\n---\n\n\n\n\nSome complicated statistics project\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrnorm(100) |> hist()\n```\n\n::: {.cell-output-display}\n![](03-project_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\nrunif(10)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1] 0.5985387 0.7483406 0.4761723 0.3049352 0.3500198 0.3267175 0.2345203\n [8] 0.6789502 0.5554040 0.3111277\n```\n\n\n:::\n:::",
     "supporting": [
       "03-project_files"
     ],

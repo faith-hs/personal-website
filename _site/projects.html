@@ -78,9 +78,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -195,55 +195,69 @@ window.Quarto = {
 
 
 <p>(to be updated soon)</p>
-<section id="project-1" class="level2">
-<h2 class="anchored" data-anchor-id="project-1">Project 1:</h2>
-<p>Here is my <a href="./projects/01-project.html">first project</a></p>
-</section>
-<section id="project-2" class="level2">
-<h2 class="anchored" data-anchor-id="project-2">Project 2</h2>
-<p>Heres is my <a href="./projects/02-project.html">second project</a></p>
-<p>consider making type default instead of table but this will display images</p>
+<!-- ## Project 1: -->
+<!-- Here is my [first project](/projects/01-project.qmd) -->
+<!-- ## Project 2 -->
+<!-- Heres is my [second project](/projects/02-project.qmd) -->
+<!-- consider making type default instead of table but this will display images -->
 <div class="project-list">
 
 </div>
 
 
 
-</section>
 
-<div class="quarto-listing quarto-listing-container-table" id="listing-project-list">
+<div class="quarto-listing quarto-listing-container-default" id="listing-project-list">
 <div class="listing-actions-group">
     <div class="input-group input-group-sm quarto-listing-filter">
       <span class="input-group-text"><i class="bi bi-search"></i></span>
       <input type="text" class="search form-control" placeholder="Filter">
     </div>
 </div>
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-Title
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-listing-file-modified-sort="1742063901730" data-listing-reading-time-sort="1" data-listing-word-count-sort="4" data-listing-title-sort="Project 1" data-listing-filename-sort="01-project.qmd">
-<td>
-<a href="./projects/01-project.html" class="title listing-title">Project 1</a>
-</td>
-</tr>
-<tr data-index="1" data-listing-file-modified-sort="1742063978468" data-listing-reading-time-sort="1" data-listing-word-count-sort="6" data-listing-title-sort="Project 2" data-listing-filename-sort="02-project.qmd">
-<td>
-<a href="./projects/02-project.html" class="title listing-title">Project 2</a>
-</td>
-</tr>
-<tr data-index="2" data-listing-file-modified-sort="1742067654557" data-listing-reading-time-sort="1" data-listing-word-count-sort="6" data-listing-title-sort="Project 3" data-listing-filename-sort="03-project.qmd">
-<td>
-<a href="./projects/03-project.html" class="title listing-title">Project 3</a>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1742115472299" data-listing-reading-time-sort="1" data-listing-word-count-sort="103">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./projects/stats140_project.html" class="no-external">Comparative Study on Tire Performance</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./projects/stats140_project.html" class="no-external"></a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="./projects/stats140_project.html" class="no-external"></a></p><a href="./projects/stats140_project.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1742115681977" data-listing-reading-time-sort="1" data-listing-word-count-sort="77">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./projects/03-project.html" class="no-external">Feature Engineering</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./projects/03-project.html" class="no-external"></a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="./projects/03-project.html" class="no-external"></a></p><a href="./projects/03-project.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-listing-file-modified-sort="1742115470475" data-listing-reading-time-sort="1" data-listing-word-count-sort="86">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./projects/dh_site.html" class="no-external">Insights to IPV Website</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./projects/dh_site.html" class="no-external"></a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="./projects/dh_site.html" class="no-external"></a></p><a href="./projects/dh_site.html" class="no-external">
+</a>
+</div>
+</div>
+</div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
