@@ -49,3 +49,8 @@ Tagging team lead \
 ## Interests
 
 Tennis | Sudoku | Building Legos | Cooking
+
+
+## Acknowledgements
+
+I would like to thank Prof. Vivian Lew for inspiring the creation of this website and TA Jose Toledo Luna for his guidance in creating this website. 
