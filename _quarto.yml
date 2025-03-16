@@ -4,7 +4,7 @@ project:
 website:
   title: "Faith Satrya"
   navbar:
-    right:
+    right :
       - href: index.qmd
         text: Home
       - href: projects.qmd

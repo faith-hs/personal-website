@@ -15,7 +15,7 @@ about:
       href: mailto:faithsatrya@g.ucla.edu
     - icon: file-text
       text: Resume
-      href: "resume.pdf"
+      url: "resume.pdf"
       
       
 toc: false
