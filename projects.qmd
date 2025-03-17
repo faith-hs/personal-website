@@ -5,15 +5,16 @@ listing:
   - id: project-list
     contents: 
       - "/projects"
-    sort: false
+    sort: date
     sort-ui: false
     filter-ui: true
-    type: default
+    type: grid
     fields:
+      - date
+      - image
       - title
     categories: false
 ---
-(to be updated soon)
 
 <!-- ## Project 1: -->
 

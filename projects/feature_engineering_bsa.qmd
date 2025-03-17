@@ -1,8 +1,10 @@
 ---
 title: Feature Engineering
+image: "https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fuclabruins.com%2Fimages%2F2025%2F2%2F26%2FQuan_Rudy_20250222_MTEN_USC_mb_AQ5A5923C.jpg&height=1100&type=webp"
 toc: false
 ---
 
+(in progress)
 
 ## About this Project
 

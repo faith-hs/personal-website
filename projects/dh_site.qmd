@@ -1,6 +1,8 @@
 ---
 title: Insights to IPV Website
-image-placeholder: dh_site_ss.png
+image: "dh_site_ss.png"
+date: 2025-03-17
+toc: false
 ---
 
 

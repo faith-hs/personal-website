@@ -1,5 +1,8 @@
 ---
 title: Comparative Study on Tire Performance
+image: "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/Squadra%20Corse/super%20trofeo/north%20america/2023/07_07/st_na_s_02.jpg"
+date: 2025-03-14
+toc: false
 ---
 
 
