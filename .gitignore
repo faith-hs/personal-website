@@ -1,1 +1,11 @@
-/.quarto/
+# Quarto config and output
+.quarto/
+_site/
+_freeze/
+
+# macOS system files
+.DS_Store
+
+# RStudio artifacts
+.Rproj.user/
+*.Rproj
