@@ -1,6 +1,6 @@
 # Quarto config and output
 .quarto/
-_site/
+# _site/
 _freeze/
 
 # macOS system files
