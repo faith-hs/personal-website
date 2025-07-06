@@ -1,0 +1,13 @@
+---
+title: Insights to IPV Website
+image: "dh_site_ss.png"
+date: 2025-03-17
+toc: false
+---
+
+
+## About this Project
+
+The [Insights to IPV](https://insightstoipv.humspace.ucla.edu) website was created as a part of the Digital Humanities 101 Course at UCLA using Wordpress. The goal of creating this website was to raise awareness on gender inequality, specifically intimate partner violence. Through this website, my team and I aimed to answer multiple research questions while informing potential solutions to current problems faced in this field. \
+
+The creation of this site required data collection, data cleaning, data analyses (and visualisations), and literature review. Find out more by visiting the site [here](https://insightstoipv.humspace.ucla.edu).

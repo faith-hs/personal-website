@@ -1,0 +1,11 @@
+---
+title: Comparative Study on Tire Performance
+image: "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/Squadra%20Corse/super%20trofeo/north%20america/2023/07_07/st_na_s_02.jpg"
+date: 2025-03-14
+toc: false
+---
+
+
+## About this Project
+
+The Comparative Study on Tire Performance was a study done for the STATS 140XP final project. This study looked at publicly available data from IMSA, specifically the Lamborghini Supertrofeo North America cup, to determine if one tire brand performs better than the other. For as long as this category of racing existed, tires have been distributed by Pirelli. However, the beginning of the 2023 season marked the beginning of a new era with all cars across this category switching to Hankook tires. This study aimed to determine which of the two tires performed better. More on this study can be found [here]. 

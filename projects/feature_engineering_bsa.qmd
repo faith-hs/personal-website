@@ -1,0 +1,11 @@
+---
+title: Feature Engineering
+image: "https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fuclabruins.com%2Fimages%2F2025%2F2%2F26%2FQuan_Rudy_20250222_MTEN_USC_mb_AQ5A5923C.jpg&height=1100&type=webp"
+toc: false
+---
+
+(in progress)
+
+## About this Project
+
+As part of the BSA Tennis Consulting Club at UCLA, I have taken on some other projects on top of my responsibilities as a tagging team lead and analyst. One of these projects is the feature engineering project. As the club has begun to transition to AI systems for data creation, some features are not readily available with the software the club utilises, warranting feature engineering of said features. More on this project can be seen [here].

@@ -1,0 +1,31 @@
+---
+title: "Projects"
+toc: false
+listing:
+  - id: project-list
+    contents: 
+      - "/projects"
+    sort: date
+    sort-ui: false
+    filter-ui: true
+    type: grid
+    fields:
+      - date
+      - image
+      - title
+    categories: false
+---
+
+<!-- ## Project 1: -->
+
+<!-- Here is my [first project](/projects/01-project.qmd) -->
+
+
+<!-- ## Project 2 -->
+
+<!-- Heres is my [second project](/projects/02-project.qmd) -->
+
+<!-- consider making type default instead of table but this will display images -->
+
+:::project-list
+:::
