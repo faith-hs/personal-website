@@ -2,16 +2,16 @@
 title: "Dashboard Example"
 author: "Faith Satrya"
 format: dashboard
+draft: true
 --- 
 
 
+``` {python}
 # using plotly (python) or shiny??
-
 # heatmap looking at latitude and longitude (lat, long)
-
 # compare bookings based on cancellation_policy
+```
 
-# 
 
 ``` {python}
 import plotly.express as px
