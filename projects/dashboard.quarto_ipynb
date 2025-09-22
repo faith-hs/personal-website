@@ -1,0 +1,62 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "--- \n",
+        "title: \"Dashboard Example\"\n",
+        "author: \"Faith Satrya\"\n",
+        "format: dashboard\n",
+        "--- \n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "# using plotly (python) or shiny??\n",
+        "\n",
+        "# heatmap looking at latitude and longitude (lat, long)\n",
+        "\n",
+        "# compare bookings based on cancellation_policy\n",
+        "\n",
+        "# \n"
+      ],
+      "id": "4c1f8391"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "import plotly.express as px\n",
+        "import pandas as pd"
+      ],
+      "id": "4f6e0d62",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "df = pd.read_csv(\"stockDataFull copy.csv\")\n",
+        "\n",
+        "fig = px.line(df, x='Date', y=[\"AAPL\", \"NVDA\"])\n",
+        "fig.show()"
+      ],
+      "id": "fe1410cf",
+      "execution_count": null,
+      "outputs": []
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/opt/anaconda3/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
