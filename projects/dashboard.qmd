@@ -1,6 +1,5 @@
 --- 
 title: "Dashboard Example"
-author: "Faith Satrya"
 format: dashboard
 draft: true
 --- 
