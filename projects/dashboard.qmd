@@ -13,14 +13,14 @@ draft: true
 
 
 ``` {python}
-import plotly.express as px
-import pandas as pd
+# import plotly.express as px
+# import pandas as pd
 ```
 
 ``` {python}
-df = pd.read_csv("stockDataFull copy.csv")
+# df = pd.read_csv("stockDataFull copy.csv")
 
-fig = px.line(df, x='Date', y=["AAPL", "NVDA"])
-fig.show()
+# fig = px.line(df, x='Date', y=["AAPL", "NVDA"])
+# fig.show()
 ```
 
