@@ -23,7 +23,7 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: false
+    toc: true
     # published-title: "last updated"
     # reference-location: document
     # code-fold: false
